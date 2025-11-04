@@ -1,5 +1,5 @@
 name: First Workflows
-on: 
+on: workflow
 jobs:
   first-job:
     runs-on: ubuntu-latest
